@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Morse-Decode
 
 This project is using Ruby to to decode morse code.
@@ -6,19 +8,43 @@ This project is using Ruby to to decode morse code.
 
 ## Built With
 
+- [x] Programming Language: Ruby
+- [x] Linter: [Rubocop](https://rubocop.org/)
+- [x] VS Code
+
 - Ruby
 
 ## Getting Started
 
 - To get a local copy up and running follow these simple example steps.
 
-## Setup
-
-- git clone https://github.com/ppmarq1/Morse-Decode.git
-
 ### Prerequisites
 
+- [x] A web browser like Google Chrome.
+- [x] A code editor like Visual Studio Code with Git and Ruby.
+
+You can check if Git is installed by running the following command in the terminal.
+```
+$ git --version
+```
+
+Likewise for Ruby installation.
+```
+$ ruby --version && irb
+```
+
+## Setup
+
+Clone the repository using the GitHub link provided below.
+
 ### Install
+
+In the terminal, go to your file directory and run this command.
+
+
+```
+$ git clone https://github.com/ppmarq1/Morse-Decode.git
+```
 
 ## Authors
 
